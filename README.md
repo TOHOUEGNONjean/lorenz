@@ -10,3 +10,10 @@ La variable "n" correspond à la taille de la liste "dep".
 La courbe de Lorenz est tracée à l'aide de la fonction "plt.plot(absis, lorenz)" qui permet de représenter graphiquement la distribution des dépenses en fonction de leur fréquence cumulée.
 
 La première bissectrice est également tracée à l'aide de la fonction "plt.plot([0,1],[0,1])". Cette droite représente l'égalité parfaite entre les revenus et les dépenses.
+
+#Pour exécuter ce code sur Google Colab, suivez les étapes suivantes :
+
+    Ouvrez votre navigateur Web et accédez à Google Colab (https://colab.research.google.com/).
+    Connectez-vous à votre compte Google si ce n'est déjà fait.
+   ### Cliquez sur le bouton "Nouvelle note" pour ouvrir un nouveau notebook.
+    Dans la première cellule du notebook, vous pouvez importer les bibliothèques nécessaires en utilisant les commandes suivantes :
