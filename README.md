@@ -17,3 +17,5 @@ La première bissectrice est également tracée à l'aide de la fonction "plt.pl
     Connectez-vous à votre compte Google si ce n'est déjà fait.
    ### Cliquez sur le bouton "Nouvelle note" pour ouvrir un nouveau notebook.
     Dans la première cellule du notebook, vous pouvez importer les bibliothèques nécessaires en utilisant les commandes suivantes :
+
+#TOHOUEGNON Jean-Bapiste
