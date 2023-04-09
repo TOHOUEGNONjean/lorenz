@@ -16,7 +16,7 @@ Tout d'abord, la première ligne récupère les valeurs négatives des données 
 
 La variable "n" correspond à la taille de la liste "dep".
 
-Ensuite, le code calcule la fréquence cumulée croissante de la liste "dep" et stocke les résultats dans la variable "lorenz". La variable "absis" est ## créée pour représenter les valeurs de l'axe horizontal pour la courbe de Lorenz.
+Ensuite, le code calcule la fréquence cumulée croissante de la liste "dep" et stocke les résultats dans la variable "lorenz". La variable "absis" est créée pour représenter les valeurs de l'axe horizontal pour la courbe de Lorenz.
 
 La courbe de Lorenz est tracée à l'aide de la fonction "plt.plot(absis, lorenz)" qui permet de représenter graphiquement la distribution des dépenses en fonction de leur fréquence cumulée.
 
